@@ -1,0 +1,40 @@
+#menubar{
+    height: 32px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+body{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#loginbar{
+    float: right;
+    margin-top: 6px;
+}
+#menuimage{
+    margin-top: 12px;
+    margin-right: 8px;
+}
+#panelheading{
+    padding: 4px;
+}
+h3{
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+#adscenter{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container{
+    padding-right: 6px;
+    padding-left: 6px;
+}
+#aa{
+    position: relative;
+    left: 100%;
+    transform: translateX(-100%);
+}
